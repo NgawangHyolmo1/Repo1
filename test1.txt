@@ -1,0 +1,10 @@
+ Volume in drive C is Local Disk
+ Volume Serial Number is 3037-024D
+
+ Directory of C:\Users\Ngawang Hyolmo\Desktop\MyProject
+
+09/20/2021  07:10 PM    <DIR>          .
+09/20/2021  07:10 PM    <DIR>          ..
+09/20/2021  07:10 PM               131 test1.txt
+               1 File(s)            131 bytes
+               2 Dir(s)  169,773,715,456 bytes free
